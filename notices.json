@@ -1,26 +1,3 @@
 {
-  "notices": [
-    {
-      "id": "2026-10-29-storing",
-      "level": "outage",
-      "title": {
-        "en": "We're experiencing an outage",
-        "nl": "We hebben een storing",
-        "de": "Wir haben eine Störung",
-        "fr": "Nous rencontrons une panne"
-      },
-      "body": {
-        "en": "Signing in and syncing don't work right now. We're working on a fix — please try again in a little while.",
-        "nl": "Inloggen en synchroniseren werken op dit moment niet. We werken aan een oplossing — probeer het over een poosje opnieuw.",
-        "de": "Anmelden und Synchronisieren funktionieren gerade nicht. Wir arbeiten an einer Lösung — bitte versuche es in Kürze erneut.",
-        "fr": "La connexion et la synchronisation ne fonctionnent pas pour le moment. Nous travaillons à une solution — veuillez réessayer dans un instant."
-      },
-      "link_url": null,
-      "starts_at": "2026-10-29T13:00:00Z",
-      "ends_at": null,
-      "platforms": ["ios", "android", "web"],
-      "min_version": null,
-      "max_version": null
-    }
-  ]
+  "notices": []
 }
