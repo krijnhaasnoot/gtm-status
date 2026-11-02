@@ -1,3 +1,80 @@
 {
-  "notices": []
+  "notices": [
+    {
+      "id": "69034a14-e4f8-4083-9233-604f67c9267f",
+      "level": "info",
+      "title": {
+        "nl": "Dinsdagavond onderhoud",
+        "en": "Maintenance on Tuesday evening",
+        "de": "Wartung am Dienstagabend",
+        "fr": "Maintenance mardi soir"
+      },
+      "body": {
+        "nl": "Dinsdag 3 november verhuizen we vanaf 22:00 uur (Nederlandse tijd) naar een nieuwe, snellere server. Dat duurt ongeveer een uur. Je kunt dan wel kijken, maar geen scores invoeren. Je blijft ingelogd en al je rondes blijven bewaard. Werk de app bij als je daarom wordt gevraagd.",
+        "en": "On Tuesday 3 November from 22:00 (Dutch time) we are moving to a new, faster server. This takes about an hour. During that time you can view everything, but you can't enter scores. You stay signed in and all your rounds are kept. Please update the app if you are asked to.",
+        "de": "Am Dienstag, dem 3. November, ziehen wir ab 22:00 Uhr (niederländische Zeit) auf einen neuen, schnelleren Server um. Das dauert etwa eine Stunde. In dieser Zeit kannst du alles ansehen, aber keine Scores eingeben. Du bleibst angemeldet und alle deine Runden bleiben erhalten. Bitte aktualisiere die App, wenn du dazu aufgefordert wirst.",
+        "fr": "Le mardi 3 novembre à partir de 22 h (heure des Pays-Bas), nous passons à un nouveau serveur plus rapide. Cela prend environ une heure. Pendant ce temps, vous pouvez tout consulter, mais pas saisir de scores. Vous restez connecté et toutes vos parties sont conservées. Mettez l'application à jour si cela vous est demandé."
+      },
+      "link_url": null,
+      "starts_at": "2026-11-02T10:52:36Z",
+      "ends_at": "2026-11-03T21:00:00Z",
+      "platforms": [
+        "ios",
+        "android",
+        "web"
+      ],
+      "min_version": null,
+      "max_version": null
+    },
+    {
+      "id": "03ac535a-8fcb-4544-a5f5-2e0b0f012f90",
+      "level": "outage",
+      "title": {
+        "nl": "We zijn aan het verhuizen",
+        "en": "We are moving servers",
+        "de": "Wir ziehen gerade um",
+        "fr": "Migration en cours"
+      },
+      "body": {
+        "nl": "Scores invoeren kan nu even niet. Over ongeveer een uur werkt alles weer. Je hoeft niets te doen.",
+        "en": "You can't enter scores right now. Everything will work again in about an hour. There's nothing you need to do.",
+        "de": "Scores können gerade nicht eingegeben werden. In etwa einer Stunde funktioniert wieder alles. Du musst nichts tun.",
+        "fr": "La saisie des scores est momentanément indisponible. Tout fonctionnera à nouveau dans environ une heure. Vous n'avez rien à faire."
+      },
+      "link_url": null,
+      "starts_at": "2026-11-03T21:00:00Z",
+      "ends_at": "2026-11-03T23:00:00Z",
+      "platforms": [
+        "ios",
+        "android",
+        "web"
+      ],
+      "min_version": null,
+      "max_version": null
+    },
+    {
+      "id": "1ea788e6-f496-430b-9ede-f682d4b5b4fb",
+      "level": "warning",
+      "title": {
+        "nl": "Werk de app bij",
+        "en": "Please update the app",
+        "de": "Bitte aktualisiere die App",
+        "fr": "Mettez l'application à jour"
+      },
+      "body": {
+        "nl": "Kun je geen scores invoeren? Werk de app bij via Google Play. Daarna werkt alles weer.",
+        "en": "Can't enter scores? Update the app through Google Play and everything will work again.",
+        "de": "Du kannst keine Scores eingeben? Aktualisiere die App über Google Play, dann funktioniert wieder alles.",
+        "fr": "Vous ne pouvez pas saisir de scores ? Mettez l'application à jour via Google Play et tout fonctionnera à nouveau."
+      },
+      "link_url": null,
+      "starts_at": "2026-11-03T23:00:00Z",
+      "ends_at": "2026-11-10T23:00:00Z",
+      "platforms": [
+        "android"
+      ],
+      "min_version": null,
+      "max_version": null
+    }
+  ]
 }
