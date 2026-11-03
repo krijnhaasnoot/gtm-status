@@ -43,7 +43,7 @@
       },
       "link_url": null,
       "starts_at": "2026-11-03T19:07:11Z",
-      "ends_at": "2026-11-03T21:07:11Z",
+      "ends_at": "2026-11-03T19:30:46Z",
       "platforms": [
         "ios",
         "android",
@@ -68,7 +68,7 @@
         "fr": "Vous ne pouvez pas saisir de scores ? Mettez l'application à jour via Google Play et tout fonctionnera à nouveau."
       },
       "link_url": null,
-      "starts_at": "2026-11-03T23:00:00Z",
+      "starts_at": "2026-11-03T19:30:46Z",
       "ends_at": "2026-11-10T23:00:00Z",
       "platforms": [
         "android"
